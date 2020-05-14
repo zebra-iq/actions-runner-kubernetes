@@ -46,6 +46,7 @@ apt-get install -y \
     git \
     inetutils-ping \
     sudo \
+    make \
     ;
 
 # Hook up the runner user with passwordless sudo
